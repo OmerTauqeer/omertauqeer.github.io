@@ -4,12 +4,13 @@
 
 layout: page
 title: Muhammad Omer Bin Tauqeer
+
 ---
 # MUHAMMAD OMER BIN TAUQEER 
 
 ## CAREER OBJECTIVES
 
-* A hardworking, dedicated graduate with interest in cyber security.Looking to join a dynamic, progressive and visionary organization. *
+* A hardworking, dedicated graduate with interest in cyber security.Looking to join a dynamic, progressive and visionary organization.
 
 ## EXPERIENCE
 + **2019 – Current**, ***Research Scholar***, National Center for Cyber Security – University of Engineering & Technology, Peshawar (NCCS-UETP).
