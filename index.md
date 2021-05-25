@@ -10,8 +10,7 @@ title: Muhammad Omer Bin Tauqeer
 
 ## CAREER OBJECTIVES
 
-* A hardworking, dedicated graduate with interest in cyber security.Looking to join a dynamic, progressive and visionary organization.
-
+***A hardworking, dedicated graduate with interest in cyber security.Looking to join a dynamic, progressive and visionary organization.***
 ## EXPERIENCE
 + **2019 – Current**, ***Research Scholar***, National Center for Cyber Security – University of Engineering & Technology, Peshawar (NCCS-UETP).
 
@@ -26,20 +25,19 @@ title: Muhammad Omer Bin Tauqeer
   +	Other security related researches and tasks.
 
 ## EDUCATION
-+ **2017 – Current** (Course Work Completed), Master of Science in Computer Science, University of Engineering & Technology (UET), Peshawar.
++ **2017 – 2021**, *Master of Science in Computer Science*, University of Engineering & Technology (UET), Peshawar.
 
-+	**2012 – 2016**, Bachelor in Computer Science, Institute of Management Sciences (IM\|Sciences), Peshawar.
++	**2012 – 2016**, *Bachelor of Science in Computer Science*, Institute of Management Sciences (IM\|Sciences), Peshawar.
 
-+	**2010 – 2012**, Higher Secondary School Certificate – Federal Board, Fazaia Degree College, Peshawar.
++	**2010 – 2012**, *Higher Secondary School Certificate – FBISE*, Fazaia Degree College, Peshawar.
 
-+	**2008 – 2010**, Secondary School Certificate – Federal Board, Fazaia Degree College, Peshawar.
++	**2008 – 2010**, *Secondary School Certificate – FBISE*, Fazaia Degree College, Peshawar.
 
 ## PUBLICATIONS
 
-+ **O. B. Tauqeer**, S. Jan, A. O. Khadidos, A. O. Khadidos, F. Q. Khan et al., “Analysis of security testing techniques,” *Intelligent Automation & Soft Computing*, vol. 29, no.1, pp. 291–306, 2021. 
-[Link](https://www.techscience.com/iasc/v29n1/42545)
++ **O. B. Tauqeer**, S. Jan, A. O. Khadidos, A. O. Khadidos, F. Q. Khan et al., “Analysis of security testing techniques,” *Intelligent Automation & Soft Computing*, vol. 29, no.1, pp. 291–306, 2021. [*Available at:* [Link](https://www.techscience.com/iasc/v29n1/42545)]
 
 +	S. Jan, **O. B. Tauqeer**, F. Q. Khan, G. Tsaramirsis, A. Ahmad et al., “A framework for systematic classification of assets for security testing,” *Computers, Materials & Continua*, vol. 66, no.1, pp. 631–645, 2021. 
-[Link](https://www.techscience.com/cmc/v66n1/40470)
+[*Available at:* [Link](https://www.techscience.com/cmc/v66n1/40470)]
 
-+	M. B. Shahzad,  S. Jan,  S. Khattak, **O. B. Tauqeer**, Mohammad, “Security Asset Classification,” *Global Scientific Journal*, vol. 9, no. 2, pp. 577-581, 2021. [Link](https://www.globalscientificjournal.com/SECURITY_ASSET_CLASSIFICATION.pdf)
++	M. B. Shahzad,  S. Jan,  S. Khattak, **O. B. Tauqeer**, Mohammad, “Security Asset Classification,” *Global Scientific Journal*, vol. 9, no. 2, pp. 577-581, 2021. [*Available at:* [Link](https://www.globalscientificjournal.com/researchpaper/SECURITY_ASSET_CLASSIFICATION.pdf)]
