@@ -12,9 +12,11 @@ layout: home
 ## EXPERIENCE
 + **2019 – Current**, ***Research Scholar***, National Center for Cyber Security – University of Engineering & Technology, Peshawar (NCCS-UETP).
 
-  +	Working with a highly qualified team of researchers.
-
   +	Analysis and Classification of Security Testing Techniques.
+
+  + Security testing and auditing operations
+
+  + Security policy  
 
   +	Design and Implementation of tools for the detection of web application vulnerabilities.
 
