@@ -44,7 +44,7 @@ header_pages:
 # theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
 #  - jekyll-feed
 
